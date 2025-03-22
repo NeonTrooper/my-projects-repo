@@ -1,0 +1,3 @@
+*.o # Ignore C++ compiled files
+*.class # Ignore Java class files
+__pycache__/ # Ignore Python cache files
